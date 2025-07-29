@@ -1093,7 +1093,7 @@ nav a:hover span.material-icons-round {
 /* ======= FEATURES SECTION ======= */
 .features-section {
   padding: clamp(4rem, 8vw, 6rem) 5%;
-  background-color: var(--gray-light);
+  background-color:  white;
 }
 
 .features-content {
